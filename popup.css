@@ -16,7 +16,5 @@ body {
     text-align: center;
     background-color: rgb(191, 190, 190);
     overflow: auto;
-    border-radius: 2rem;
-    
-    
+    border-radius: 2rem ; 
   }
